@@ -14,3 +14,6 @@ Werkzeug
 
 lxml
 pylzma
+
+#Install all required modules:
+# python -m pip install sqlalchemy alembic pyqt5 pyinstaller html5lib cssselect arrow rarfile babel pypiwin32 pywinutils markdown werkzeug lxml pylzma
