@@ -1,17 +1,5 @@
 [
   {
-    "id": "Jianan_mod",
-    "type": "json_flag",
-    "context": [ "ARMOR", "TOOL_ARMOR" ],
-    "info": "This gear has been altered by magic, increasing its <good>protection</good> as well as <good>acid resistance</good>."
-  },
-  {
-    "id": "Jianan_mod",
-    "type": "json_flag",
-    "context": [ "ARMOR", "TOOL_ARMOR" ],
-    "info": "This gear has been altered by druidic magic, increasing its <good>protection</good> as well as reducing its <good>encumbrance</good>."
-  },
-  {
     "id": "arcana_chitin_weave",
     "type": "json_flag",
     "context": [ "ARMOR", "TOOL_ARMOR" ],
