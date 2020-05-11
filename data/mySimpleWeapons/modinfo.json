@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Simple_Weapons",
+    "name": "Simple Apocalyptic Weapons",
+    "authors": [ "Jaisus" ],
+    "description": "Simple weapons you could find in a post-apocalyptic world.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
