@@ -1,3 +1,40 @@
+[
+  {
+    "id": "Jianan_mod",
+    "type": "json_flag",
+    "context": [ "ARMOR", "TOOL_ARMOR" ],
+    "info": "This gear has been altered by magic, increasing its <good>protection</good> as well as <good>acid resistance</good>."
+  },
+  {
+    "id": "Jianan_mod",
+    "type": "json_flag",
+    "context": [ "ARMOR", "TOOL_ARMOR" ],
+    "info": "This gear has been altered by druidic magic, increasing its <good>protection</good> as well as reducing its <good>encumbrance</good>."
+  },
+  {
+    "id": "arcana_chitin_weave",
+    "type": "json_flag",
+    "context": [ "ARMOR", "TOOL_ARMOR" ],
+    "info": "This gear has been altered by druidic magic, increasing its <good>protection</good>."
+  },
+  {
+    "id": "arcana_clay_weave",
+    "type": "json_flag",
+    "context": [ "ARMOR", "TOOL_ARMOR" ],
+    "info": "This gear has been altered by druidic magic, increasing its <good>protection</good> as well as its <good>fire resistance</good>."
+  },
+  {
+    "id": "arcana_stone_weave",
+    "type": "json_flag",
+    "context": [ "ARMOR", "TOOL_ARMOR" ],
+    "info": "This gear has been altered by druidic magic, increasing its <good>protection</good> as well as its <good>fire resistance</good>."
+  },
+  {
+    "id": "arcana_wood_weave",
+    "type": "json_flag",
+    "context": [ "ARMOR", "TOOL_ARMOR" ],
+    "info": "This gear has been altered by druidic magic, increasing its <good>protection</good> as well as reducing its <good>encumbrance</good>."
+  }
 {
 "id": "Jianan_mod",
     "type": "furniture",
@@ -14,3 +51,4 @@
     "examine_action": "deployed_furniture",
     "bash": { "str_min": 100, "str_max": 400, "sound": "crash!", "sound_fail": "whump!" }
 }
+]
