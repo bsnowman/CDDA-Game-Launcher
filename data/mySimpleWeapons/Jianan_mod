@@ -1,3 +1,4 @@
+{
 "id": "Jianan_mod",
     "type": "furniture",
     "name": "shimmering barrier",
@@ -12,3 +13,4 @@
     "deployed_item": "candle_barrier_aftermath",
     "examine_action": "deployed_furniture",
     "bash": { "str_min": 100, "str_max": 400, "sound": "crash!", "sound_fail": "whump!" }
+}
